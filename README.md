@@ -20,5 +20,5 @@ https://github.com/user-attachments/assets/1fd027b4-6827-43e0-8de1-93920bf94b69
 # 011_ScrollBar
 <img width="1342" height="788" alt="Screenshot 2025-08-18 215247" src="https://github.com/user-attachments/assets/bb70908d-3364-4d15-8710-ddb5d37a3a62" />
 
-
-
+#012_BackgroundImageText
+<img width="1346" height="791" alt="Screenshot 2025-08-18 215254" src="https://github.com/user-attachments/assets/739157cb-d6b2-407c-bfc3-5a35300f75cc" />
